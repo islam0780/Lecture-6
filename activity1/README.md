@@ -10,11 +10,15 @@
 
 2. Which statement is false?
 
-[]Every non-root node in a binary tree has exactly one parent
-[]Every non-empty binary tree has exactly one root node
-[x]Every binary tree has at least one node
+[] Every non-root node in a binary tree has exactly one parent 
+
+[] Every non-empty binary tree has exactly one root node
+
+[x] Every binary tree has at least one node
+
 [] node in a binary tree has exactly two children
-[]None of the above
+
+[] None of the above
 
 3. What is the minimum number of nodes in a full binary tree with height 3?
 //7
@@ -24,11 +28,15 @@
 
 5. Which statement is false?
 
-[x]Every binary tree has at least one node
-[]Every non-empty binary tree has exactly one root node
-[]Every non-root node in a binary tree has exactly one parent
-[]Every node in a binary tree has exactly two children
-[]None of the above
+[x] Every binary tree has at least one node
+
+[] Every non-empty binary tree has exactly one root node
+
+[] Every non-root node in a binary tree has exactly one parent
+
+[] Every node in a binary tree has exactly two children
+
+[] None of the above
 
 
 
@@ -79,11 +87,16 @@ In summary, the difference between the different ways of traversing a binary tre
 //True
 3. Visiting each element in a tree is known as:
 
-[]Merging
-[]Inserting
-[]Sorting
-[x]Traversing
-[]Enumerating
+[] Merging
+
+[] Inserting
+
+[] Sorting
+
+[x] Traversing
+
+[] Enumerating
+
 4. If you are given the order of the nodes as visited by a preorder traversal and the order of the nodes as visited by a postorder traversal, do you have enough information to reconstruct the original tree? Assume that the nodes all have unique values.
 //False
 5. If you are given the order of the nodes as visited by a preorder traversal and the order of the nodes as visited by an inorder traversal, do you have enough information to reconstruct the original tree? Assume that the nodes all have unique values.
